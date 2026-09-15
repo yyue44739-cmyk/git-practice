@@ -1,3 +1,4 @@
 # git-practice
 My Git and GitHub practice repository
 I am learning Git.
+Git is a version control system.
